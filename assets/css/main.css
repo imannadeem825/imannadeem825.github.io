@@ -2804,6 +2804,10 @@ input, select, textarea {
 				margin-top: 0;
 			}
 
+	#contactHeader {
+		margin-bottom: 1em;
+	}
+
 /* Icons */
 
 	ul.icons {
