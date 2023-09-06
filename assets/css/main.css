@@ -1852,6 +1852,7 @@ input, select, textarea {
 		text-decoration: none;
 		text-transform: uppercase;
 		white-space: nowrap;
+		width: calc(4.75em + 2px);
 	}
 
 		input[type="submit"]:after,
