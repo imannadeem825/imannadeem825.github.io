@@ -1852,6 +1852,7 @@ input, select, textarea {
 		text-decoration: none;
 		text-transform: uppercase;
 		white-space: nowrap;
+		width: calc(4.75em + 2px);
 	}
 
 		input[type="submit"]:after,
@@ -2803,6 +2804,10 @@ input, select, textarea {
 			ul.contact > li:first-child {
 				margin-top: 0;
 			}
+
+	#contactHeader {
+		margin-bottom: 1em;
+	}
 
 /* Icons */
 
